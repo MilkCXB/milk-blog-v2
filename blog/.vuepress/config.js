@@ -2,7 +2,7 @@ module.exports = {
   title: "milk-blog",
   description: "",
   dest: "public",
-  base: "/milk-blog-v2/",
+  base: "./",
   head: [
     [
       "link",
