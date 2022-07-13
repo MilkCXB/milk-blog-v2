@@ -66,14 +66,12 @@ module.exports = {
         { icon: "reco-github", link: "https://github.com/MilkCXB" },
       ],
     },
-    // friendLink: [
-    //   {
-    //     title: "午后南杂",
-    //     desc: "Enjoy when you can, and endure when you must.",
-    //     email: "1156743527@qq.com",
-    //     link: "https://www.recoluan.com",
-    //   },
-    // ],
+    friendLink: [
+      {
+        title: "千拾",
+        link: "http://blog.xingyijun.cn",
+      },
+    ],
     logo: "/milk-icon.png",
     search: true,
     searchMaxSuggestions: 10,
